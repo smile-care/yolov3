@@ -1,0 +1,4 @@
+C:\Users\smile\Desktop\PyTorch-YOLOv3-xd\data\images/1_ng2019052115-3908-170170.jpg
+C:\Users\smile\Desktop\PyTorch-YOLOv3-xd\data\images/1_ng2019052115-3910-526526.jpg
+C:\Users\smile\Desktop\PyTorch-YOLOv3-xd\data\images/1_ng2019052115-3913-233233.jpg
+C:\Users\smile\Desktop\PyTorch-YOLOv3-xd\data\images/1_ng2019052115-3913-975975.jpg

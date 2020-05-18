@@ -1,0 +1,4 @@
+classes= 8
+names=./data/ciwa.names
+train=./data/train.txt
+valid=./data/valid.txt
